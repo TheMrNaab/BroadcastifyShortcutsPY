@@ -8,6 +8,7 @@
    - Add the **Run Pythonista Script** action  
    - Choose `broadcastify.py`
    - You can add this shortcut to your Home Screen or ask **Siri** to run it
-     ![Screenshot]([https://example.com/path/to/image.png](shortcut-0.jpeg)
-
-### Python Application
+     <div>
+        <img src="shortcut-0.jpeg" alt="App Screenshot" style="width:200px;"> 
+        <img src="shortcut-1.jpeg" alt="App Screenshot" style="width:200px;">
+     </div>
