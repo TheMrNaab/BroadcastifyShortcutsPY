@@ -5,7 +5,7 @@ This shortcut installs the following files into Pythonista:
 - `script.py`
 - `channels.json`
 
-### 🔧 Setup Instructions
+### Setup Instructions
 
 1. **Install Pythonista**  
    [Get it on the App Store](https://apps.apple.com/us/app/pythonista-3/id1085978097)
@@ -20,5 +20,15 @@ This shortcut installs the following files into Pythonista:
    - Launch Pythonista  
    - Tap the menu (☰)  
    - Choose **Open** under *External Files*  
-   - Select the expanded folder  
+   - Select the expanded folder
    - Tap **Open**
+
+5. **Run the Script**  
+   Tap `broadcastify.py`, then tap the **Play** (▶️) button to launch it.
+
+6. **(Optional) Create a Home Screen Shortcut**  
+   Open the **Shortcuts** app:  
+   - Tap **+** to create a new shortcut  
+   - Add the **Run Pythonista Script** action  
+   - Choose `broadcastify.py`  
+   - You can add this shortcut to your Home Screen or ask **Siri** to run it
