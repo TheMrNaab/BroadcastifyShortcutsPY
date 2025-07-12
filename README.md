@@ -18,6 +18,7 @@ This shortcut installs the following files into Pythonista:
    - Tap the **+** button to create a new file
    - Choose **Empty Script** 
    - Name it: `install.py`
+   - Tap **Create**
 
 4. **Paste This Code Into the File**  
    Copy the code below and paste it into `install.py`:
