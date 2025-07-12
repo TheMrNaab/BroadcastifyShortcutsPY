@@ -1,17 +1,24 @@
 # BroadcastifyShortcutsPY
 
-This Shortcut installs the following files into Pythonista:
+This shortcut installs the following files into Pythonista:
 
-- `broadcastify.py`
+- `script.py`
 - `channels.json`
 
 ### 🔧 Setup Instructions
 
-1. **Install Pythonista:**  
-   [Download from App Store](https://apps.apple.com/us/app/pythonista-3/id1085978097)
+1. **Install Pythonista**  
+   [Get it on the App Store](https://apps.apple.com/us/app/pythonista-3/id1085978097)
 
-2. **Install the Files:**
-   [Download Release ZIP]()
+2. **Download the ZIP**  
+   [Download Release ZIP](https://github.com/TheMrNaab/BroadcastifyShortcutsPY/archive/refs/tags/V1.zip)
 
-3. **Run the Shortcut**  
-   It will download the files into Pythonista's script directory.
+3. **Extract the ZIP in Safari**  
+   Tap the downloaded file to expand it.
+
+4. **Open the Folder in Pythonista**  
+   - Launch Pythonista  
+   - Tap the menu (☰)  
+   - Choose **Open** under *External Files*  
+   - Select the expanded folder  
+   - Tap **Open**
