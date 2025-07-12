@@ -45,5 +45,5 @@ This shortcut installs the following files into Pythonista:
    - Open the **Shortcuts** app  
    - Tap **+** to create a new shortcut  
    - Search for **Run Pythonista Script**  
-   - Choose `script.py` from the folder  
+   - Choose `broadcastify.py` from the folder  
    - You can add this shortcut to your Home Screen or ask **Siri** to run it
