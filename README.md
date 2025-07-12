@@ -2,33 +2,43 @@
 
 This shortcut installs the following files into Pythonista:
 
-- `script.py`
-- `broadcastify.json`
+- `broadcastify.py`
+- `channels.json`
 
 ### Setup Instructions
 
 1. **Install Pythonista**  
-   [Get it on the App Store](https://apps.apple.com/us/app/pythonista-3/id1085978097)
+   Download Pythonista 3 from the App Store:  
+   [Get Pythonista](https://apps.apple.com/us/app/pythonista-3/id1085978097)
 
-2. **Download the ZIP**  
-   [Download Release ZIP](https://github.com/TheMrNaab/BroadcastifyShortcutsPY/archive/refs/tags/V1.zip)
+2. **Open Pythonista**  
+   Launch the app on your device.
 
-3. **Extract the ZIP in Safari**  
-   Tap the downloaded file to expand it.
+3. **Create a New Script**  
+   - Tap the **+** button to create a new file  
+   - Name it: `install.py`  
+   - Delete any starter code in the file
 
-4. **Open the Folder in Pythonista**  
-   - Launch Pythonista  
-   - Tap the menu (☰)  
-   - Choose **Open** under *External Files*  
-   - Select the expanded folder
-   - Tap **Open**
+4. **Paste This Code Into the File**  
+   Copy the code below and paste it into `install.py`:
 
-5. **Run the Script**  
-   Tap `broadcastify.py`, then tap the **Play** (▶️) button to launch it.
+   ```python
+   import urllib.request
+   exec(urllib.request.urlopen("https://raw.githubusercontent.com/TheMrNaab/BroadcastifyShortcutsPY/main/install.py").read())
+   ```
 
-6. **(Optional) Create a Home Screen Shortcut**  
-   Open the **Shortcuts** app:  
+5. **Run the Installer**  
+   Tap the **Play** ▶️ button to run the script.  
+   This will download and set up the Broadcastify files into a folder called `BroadcastifyShortcutsPY`.
+
+6. **Open and Use the App**  
+   - Open the new folder: `BroadcastifyShortcutsPY`  
+   - Tap on `broadcastify.py`  
+   - Press **Play** ▶️ to start using it
+
+7. *(Optional)* **Add to Apple Shortcuts**  
+   - Open the **Shortcuts** app  
    - Tap **+** to create a new shortcut  
-   - Add the **Run Pythonista Script** action  
-   - Choose `broadcastify.py`  
+   - Search for **Run Pythonista Script**  
+   - Choose `script.py` from the folder  
    - You can add this shortcut to your Home Screen or ask **Siri** to run it
