@@ -3,7 +3,7 @@
 This shortcut installs the following files into Pythonista:
 
 - `script.py`
-- `channels.json`
+- `broadcastify.json`
 
 ### Setup Instructions
 
