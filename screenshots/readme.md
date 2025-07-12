@@ -9,6 +9,6 @@
    - Choose `broadcastify.py`
    - You can add this shortcut to your Home Screen or ask **Siri** to run it
      <div>
-        <img src="shortcut-0.jpeg" alt="App Screenshot" style="width:200px;"> 
-        <img src="shortcut-1.jpeg" alt="App Screenshot" style="width:200px;">
+        <img src="shortcut-00.jpeg" alt="App Screenshot" style="width:200px;"> 
+        <img src="shortcut-01.jpeg" alt="App Screenshot" style="width:200px;">
      </div>
